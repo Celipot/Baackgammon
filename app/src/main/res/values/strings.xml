@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PA6</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="take_photo">Frame the board game</string>
+
+    <string name="best_move">Find the best move!</string>
+    <string name="bg_scan">BG Scan</string>
+</resources>
